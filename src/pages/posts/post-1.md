@@ -7,7 +7,7 @@ author: 'Astro Learner'
 image:
   url: 'https://docs.asto.build/assets/rose.webp'
   alt: '--The Astro logo on a dark background with a pink glow--'
-tags: ["astro","blogging","learninf in public"]
+tags: ["astro","blogging","learning in public"]
 ---
 # My First Blog Post
 Welcome to my _new blog_ about learning Astro! Here, I will share my learning journey as I build a new website.
